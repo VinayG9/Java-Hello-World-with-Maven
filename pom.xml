@@ -8,7 +8,7 @@
   <groupId>org.springframework</groupId>
   <artifactId>jb-hello-world-maven</artifactId>
   <version>0.1.0</version>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
 
   <properties>
     <maven.compiler.source>17</maven.compiler.source>
