@@ -32,8 +32,6 @@
           <target>17</target>
         </configuration>
       </plugin>
-
-      <!-- Shade Plugin -->
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-shade-plugin</artifactId>
