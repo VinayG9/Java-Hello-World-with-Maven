@@ -1,1 +1,1 @@
-<h1>Hello from jb-hello-world-maven-0.1.0 on EC2!</h1>
+<h1>Hello from vinay we deployed this in tomcat webserver using CI/CD on EC2!</h1>
